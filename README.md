@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @dritonkr
-- 👀 I’m interested in web development and design
-- 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate 
-- 📫 katrormarketing@gmail.com
+- 👀 I’m interested in software development
+- 💞️ I’m looking to collaborate
